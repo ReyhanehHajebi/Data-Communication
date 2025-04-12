@@ -1,4 +1,4 @@
-# Data-Communication
+# Data Communication
 📚 Overview: Data Communication Course Summary
 The Data Communication course introduces the foundational principles and practical techniques used in modern digital communication systems. It focuses on how data is encoded, transmitted over channels, and decoded on the receiving end—often in the presence of noise or transmission errors.
 
